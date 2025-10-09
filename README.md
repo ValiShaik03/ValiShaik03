@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valishaik03&label=Profile%20views&color=0e75b6&style=flat" alt="valishaik03" /> </p>
 
-- 🔭 I’m currently working on **Telegram_Ai_ChatBot**
+- 🔭 I’m currently working on **Inventory_Management_System**
 
-- 🌱 I’m currently learning **React, Machine Learning**
+- 🌱 I’m currently learning **GenAI, Machine Learning**
 
-- 💬 Ask me about **Machine Learning,JavaScript**
+- 💬 Ask me about **Machine Learning,Python**
 
 - 📫 How to reach me **mvali060103@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19BPaAFNTimDzP7TVt88YkSPoR1S4HDP_/view?usp=sharing](https://drive.google.com/file/d/19BPaAFNTimDzP7TVt88YkSPoR1S4HDP_/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YVPHyarj_z3sWdgYa2bJxSlURQrz_DKj/view?usp=sharing)
 
 - ⚡ Fun fact **I am funny 😊**
 
