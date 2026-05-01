@@ -1,4 +1,6 @@
-![banner](https://images.unsplash.com/photo-1519389950473-47ba0277781c?q=80&w=1600&auto=format&fit=crop)
+<p align="center">
+  <img src="bannerimage.png" alt="banner" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Mahaboob Vali Shaik</h1>
 
 <p align="center">
