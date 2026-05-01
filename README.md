@@ -19,7 +19,7 @@
 🌱 <b>Learning</b>: GenAI • Machine Learning  • FastAPI  
 💬 <b>Ask me about</b>: Python • ML  
 📫 <b>Reach me at</b>: mvali060103@gmail.com  
-📄 <b>Resume</b>: <a href="https://drive.google.com/file/d/1YVPHyarj_z3sWdgYa2bJxSlURQrz_DKj/view?usp=sharing">View</a>  
+📄 <b>Resume</b>: <a href="https://drive.google.com/file/d/1yNXz8s7ZgppZvZSTuOb6_Plft4jKtsfB/view?usp=sharing">View</a>  
 ⚡ <b>Fun fact</b>: Exploring AI ideas is my thing 😄  
 
 </p>
